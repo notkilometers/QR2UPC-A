@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.notkilometers.qr_to_upca">
    <application
-        android:label="qr_to_upca"
+        android:label="QR2UPC-A"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
